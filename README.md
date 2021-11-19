@@ -20,7 +20,7 @@ limitations under the License.
 
 # incrsumabs
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Compute a sum of absolute values incrementally.
 
@@ -139,9 +139,9 @@ console.log( accumulator() );
 
 ## See Also
 
--   [`@stdlib/stats/incr/meanabs`][@stdlib/stats/incr/meanabs]: compute an arithmetic mean of absolute values incrementally.
--   [`@stdlib/stats/incr/msumabs`][@stdlib/stats/incr/msumabs]: compute a moving sum of absolute values incrementally.
--   [`@stdlib/stats/incr/sum`][@stdlib/stats/incr/sum]: compute a sum incrementally.
+-   <span class="package-name">[`@stdlib/stats/incr/meanabs`][@stdlib/stats/incr/meanabs]</span><span class="delimiter">: </span><span class="description">compute an arithmetic mean of absolute values incrementally.</span>
+-   <span class="package-name">[`@stdlib/stats/incr/msumabs`][@stdlib/stats/incr/msumabs]</span><span class="delimiter">: </span><span class="description">compute a moving sum of absolute values incrementally.</span>
+-   <span class="package-name">[`@stdlib/stats/incr/sum`][@stdlib/stats/incr/sum]</span><span class="delimiter">: </span><span class="description">compute a sum incrementally.</span>
 
 </section>
 
@@ -192,8 +192,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-incr-sumabs/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-incr-sumabs?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/stats-incr-sumabs.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/stats-incr-sumabs/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
