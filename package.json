@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/stats-incr-sumabs",
+  "version": "0.0.0",
+  "description": "Compute a sum of absolute values incrementally.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-incr-sumabs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "mathematics",
+    "math",
+    "summation",
+    "sum",
+    "total",
+    "incremental",
+    "accumulator",
+    "absolute",
+    "value",
+    "abs",
+    "math.abs",
+    "magnitude"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
