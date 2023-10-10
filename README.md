@@ -63,7 +63,7 @@ s = \sum_{i=0}^{n-1} |x_i|
 ## Usage
 
 ```javascript
-import incrsumabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-sumabs@esm/index.mjs';
+import incrsumabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-sumabs@v0.1.1-esm/index.mjs';
 ```
 
 #### incrsumabs()
@@ -122,7 +122,7 @@ sum = accumulator();
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import incrsumabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-sumabs@esm/index.mjs';
+import incrsumabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-sumabs@v0.1.1-esm/index.mjs';
 
 var accumulator;
 var v;
